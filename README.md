@@ -1,5 +1,5 @@
 
-# Modelagem Multivariada — Documentação de Entrega (Thomas)
+# Modelagem Multivariada — Documentação de Entrega 
 
 > **Grupo 5 — Pipeline Preditivo Integrado (Regressão + Validação)**  
 > Repositório estruturado para gerar **análises multivariadas** com foco em **correlações** e **interpretação prática**. Este documento consolida: contexto, estatística descritiva, testes de hipóteses, teoria da informação, modelagem preditiva, validação, resultados e pacote de entrega.
@@ -29,7 +29,6 @@ python -m src.run_all --data data/raw/dados.xlsx --sheet GERAL
 ## 1) Estrutura do repositório
 
 ```
-atividade_modelagem_multivariada_thomas/
 ├─ data/
 │  └─ raw/
 │     └─ dados.xlsx
